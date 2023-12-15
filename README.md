@@ -1,6 +1,6 @@
 # Jets Project to Debug SQS Queue
 
-[Shared SQS Queue #689](https://github.com/rubyonjets/jets/issues/689)
+Project to help debug [Shared SQS Queue #689](https://github.com/rubyonjets/jets/issues/689)
 
 ## How To
 
